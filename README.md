@@ -8,15 +8,15 @@ The project has been developed and tested with Python 3.6.
 
 This program does three things:
 
-1. Extracts the list of characters from a novel.
-2. Attributes the speaker to every utterance.
-3. Creates multiple types of character networks.
+1. Extract the list of characters from a novel.
+2. Attribute the speaker to every utterance.
+3. Create multiple types of character networks.
 
 ### Example
 
 Based on the text of Pride and Prejudice, this program can generate a graph showing how often characters talk to each other:
 
-![Pride and Prejudice](https://raw.githubusercontent.com/ZuzkaU/CharacterNetworks/master/example.png)
+<img src="https://raw.githubusercontent.com/ZuzkaU/CharacterNetworks/master/example.png" width="600" height="600">
 
 ## Setup
 
