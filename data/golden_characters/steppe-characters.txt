@@ -1,0 +1,66 @@
+1,Father Christopher Siriysky,M
+1,Father Christopher,M
+2,Ivan Kuzmitchov,M
+2,Kuzmitchov,M
+2,Ivan Ivanitch,M
+3,Yegorushka,M
+4,Deniska,F
+5,Moisey Moisevitch,M
+6,Solomon,M
+7,the Jewess,F
+7,Rosa,F
+8,Panteley,M
+9,Emelyan,M
+10,Vassya,M
+11,Dymov,M
+12,Kiruha,M
+13,Styopka,M
+14,Nastasya Petrovna,F
+15,old shepherd 1,M
+16,old shepherd 2,M
+17,a covey of partridges,M
+18,the scythes,M
+19,Bishop Christopher,M
+20,Father Christopher's father,M
+21,Tit,M
+22,any grown-up person,M
+23,children,M
+24,a fleecy ashen-grey cloud,M
+25,Countess Dranitsky,F
+26,Mihailo Timofevitch,M
+26,Mikhailos,M
+27,Gavrila,M
+28,the Tsar,M
+29,two bass voices,M
+30,a voice,M
+31,the steppe dwellers,M
+32,the bird,M
+33,several voices,M
+34,someone,M
+35,the sound,M
+36,the lady,F
+37,the beadle,M
+38,the shopkeeper,M
+39,the customer,M
+40,god,M
+41,the mowers,M
+42,the merchant,M
+43,a peasant woman,F
+44,the innkeeper and his wife,M
+45,the innkeeper,M
+46,the innkeepers wife,F
+47,Konstantin Zvonik,M
+48,this sound,M
+49,Konstantin Zvoniks wife,F
+50,Varlamov,M
+51,anyone,M
+52,the thunder,M
+53,the old woman,F
+54,the peasants,M
+55,the stranger,M
+56,the apostle paul,M
+57,an old man,M
+58,an old woman,F
+59,Katka,F
+60,policeman,M
+61,the man,M

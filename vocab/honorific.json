@@ -1,0 +1,22 @@
+{
+    "woman" : [
+        "Mrs.",
+        "Ms.",
+        "Miss",
+        "Lady",
+        "lady"
+    ],
+    "man" : [
+        "Mr.",
+        "Sir",
+        "sir",
+        "Lord",
+        "lord",
+        "Colonel",
+        "colonel"
+    ],
+    "other" : [
+        "Dr.",
+        "Prof."
+    ]
+}

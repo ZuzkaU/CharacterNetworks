@@ -1,0 +1,8 @@
+spacy
+networkx
+numpy
+matplotlib
+sklearn
+nltk
+torch==1.8.0
+transformers==4.2.2

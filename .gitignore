@@ -1,0 +1,17 @@
+# Generally ignored files
+venv/
+.python-version
+*.pickle
+__pycache__/
+*.weights
+*.docbin
+out/
+config/
+
+# Files to download
+long-doc-coref
+models/coref.pth
+
+# Not public
+data/data_muzny/**/*.xml
+data/data_vala/**/*.csv

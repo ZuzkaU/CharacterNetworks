@@ -1,0 +1,136 @@
+1,Mr. Bennet,M
+1,papa,M
+1,father,M
+2,Mrs. Long,F
+3,Mr. Bingley,M
+3,Charles,M
+3,Bingley,M
+4,Sir William Lucas,M
+4,Sir William,M
+5,Lady Lucas,F
+6,Elizabeth Bennet,F
+6,Lizzy,F
+6,Miss Eliza,F
+6,Eliza,F
+6,Miss Elizabeth,F
+6,Elizabeth,F
+6,Miss Elizabeth Bennet,F
+6,Miss Eliza Bennet,F
+6,Miss Lizzy,F
+6,friend,F
+6,Mrs. Darcy,F
+7,Miss Jane Bennet,F
+7,Jane,F
+7,invalid,F
+7,Mrs. Bingley,F
+7,girl,F
+8,Miss Lydia Bennet,F
+8,Miss Lydia ,F
+8,Mrs. Wickham,F
+8,Lydia,F
+9,Mrs. Bennet,F
+9,lady,F
+9,Mamma,F
+9,mother
+10,Kitty,F
+10,Catherine,F
+11,Mary,F
+12,Mr. Hurst,M
+13,Mr. Darcy,M
+13,Fitzwilliam Darcy,M
+13,Darcy,M
+14,Mrs. Hurst,M
+14,Louisa,F
+15,Miss Bingley,F
+15,Caroline,F
+15,Caroline Bingley,F
+16,Miss King,F
+16,Mary King,F
+17,Maria Lucas,F
+17,Maria,F
+18,Charlotte Lucas,F
+18,Charlotte,F
+18,Miss Lucas,F
+18,Mrs. Collins,F
+19,Colonel Forster,M
+19,Colonel F.,M
+20,Mr. Phillips,M
+20,uncle Phillips,M
+21,Mrs. Phillips,F
+21,my sister Phillips,F
+21,aunt Phillips ,F
+22,Captain Carter,M
+23,Mr. Jones,M
+24,Miss Darcy,F
+24,Georgiana,F
+24,Mr. Darcy's sister,F
+24,Georgiana Darcy,F
+25,Mr. Gardiner,M
+25,my brother Gardiner,M
+26,Mr. Collins,M
+27,Lady Catherine de Bourgh,F
+27,Lady Catherine,F
+27,ladyship,F
+28,Miss de Bourgh,F
+28,Anne,F
+28,heiress,F
+29,Mr. Denny,M
+29,Denny,M
+30,George Wickham,M
+30,George,M
+30,Mr. Wickham,M
+30,Wickham,M
+30,W.,M
+30,godson,M
+31,Mrs. Jenkinson,F
+32,Mrs. Gardiner,F
+32,my sister Gardiner,F
+32,M. GARDINER,,F
+33,Colonel Fitzwilliam,M
+33,colonel,M
+33,Fitzwilliam,M
+34,Mrs. Younge,F
+35,Mrs. Forster,F
+35,Mrs. F,F
+35,Harriet,F
+36,Mrs. Reynolds,F
+36,Reynolds,F
+37,Hill,F
+37,Mrs. Hill,F
+38,Mr. Morris,M
+39,Mr. Robinson,M
+40,Miss Watson,F
+41,Miss Grantley,F
+42,Nicholls,M
+43,Richard,M
+44,Archbishop,M
+45,Dawson,M
+46,shop-boy,M
+47,Miss Webbs,F
+48,Lady Metcalf,F
+49,Miss Pope,F
+50,John,M
+51,Harringtons,M
+52,Pen,F
+53,Chamberlayne,M
+54,Colonel Miller,M
+55,William Goulding,M
+56,Sally,F
+57,Mr. Stone,F
+58,Mrs. Nicholls,F
+59,Sarah,F
+60,apothecary,M
+61,Sir Lewis de Bourgh,M
+62,the late Mr. Darcy,M
+63,Lady Anne Darcy,F
+63,Lady Anne,F
+64,Pratt,M
+65,Haggerston,M
+66,Gouldings,M
+67,Mrs. Annesley,F
+68,assistant,M
+69,chambermaid,F
+70,housekeeper,F
+71,owner,M
+72,servant,M
+73,waiter,M

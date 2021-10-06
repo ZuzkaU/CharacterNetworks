@@ -1,0 +1,29 @@
+{
+    "woman" : [
+        "mother",
+        "mom",
+        "daughter",
+        "sister",
+        "aunt",
+        "wife",
+        "niece",
+        "mamma"
+    ],
+    "man" : [
+        "father",
+        "dad",
+        "son",
+        "brother",
+        "uncle",
+        "husband",
+        "nephew",
+        "papa"
+    ],
+    "other" : [
+        "cousin",
+        "friend",
+        "partner",
+        "neighbour",
+        "relative"
+    ]
+}
