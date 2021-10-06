@@ -16,7 +16,7 @@ This program does three things:
 
 Based on the text of Pride and Prejudice, this program can generate a graph showing how often characters talk to each other:
 
-![Pride and Prejudice](https://raw.githubusercontent.com/ZuzkaU/CharacterNetworks/master/example.pdf)
+![Pride and Prejudice](https://raw.githubusercontent.com/ZuzkaU/CharacterNetworks/master/example.png)
 
 ## Setup
 
