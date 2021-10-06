@@ -12,6 +12,12 @@ This program does three things:
 2. Attributes the speaker to every utterance.
 3. Creates multiple types of character networks.
 
+### Example
+
+Based on the text of Pride and Prejudice, this program can generate a graph showing how often characters talk to each other:
+
+![Pride and Prejudice](https://raw.githubusercontent.com/ZuzkaU/CharacterNetworks/master/example.pdf)
+
 ## Setup
 
 Clone the repository for resolving coreference (using the current commit 3571ec3fc11e48f488e4cc54fc56b3e8508a058a).
